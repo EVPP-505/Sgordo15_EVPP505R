@@ -1,0 +1,14 @@
+---
+title: "Week 3 Notebook - 2/7/2018"
+output: html_notebook
+---
+
+# Class on Data Types
+
+```{r Types}
+#inside curly brackes, r then space, then it will start acceapting arguments
+#by putting {r NAME} you are naming your chunk (shows up at the bottom of this pane)
+
+2 + 2
+```
+
